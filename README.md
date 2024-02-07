@@ -13,7 +13,7 @@ Below are the different types of the machine learning algorithms:
       - kNN
       - Decision Tree
       - Random Forest
-#### Explore
+#### Exploration
   - Unsupervised
      - Fit data into discrete groups: Clustering
        - Agglomerative

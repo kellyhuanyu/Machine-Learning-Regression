@@ -23,7 +23,7 @@ Below are the different types of the machine learning algorithms:
 We will go through the theory and applications of Gradient Descent and Gradient Ascent.
 
 ## Gradient Descent
-First, we start with the Gradient Descent. When doing the gradient descent, we basically keep updating the parameter and adjusting the function to find the model with the lowest cost/ error to solve the problem of regresiion. Now, we are going to use the kangaroo’s nasal dimension data to estimate the optimal intercept and gradient for this prediction.
+First, we start with the Gradient Descent. When doing the gradient descent, we basically keep updating the parameter and adjusting the function to find the model with the lowest cost/ error to solve the problem of regression. Now, we are going to use the kangaroo’s nasal dimension data to estimate the optimal intercept and gradient for this prediction.
 
 ### Variables 
 ```

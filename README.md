@@ -9,15 +9,6 @@ Below are the different types of the machine learning algorithms:
     - Continuous variables: Regression
       - Gradient Descent
       - Gradient Ascent
-    - Discrete variables: Classification
-      - kNN
-      - Decision Tree
-      - Random Forest
-#### Exploration
-  - Unsupervised
-     - Fit data into discrete groups: Clustering
-       - Agglomerative
-       - Divisive
 
 # Regression
 We will go through the theory and applications of Gradient Descent and Gradient Ascent.
